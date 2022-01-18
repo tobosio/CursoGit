@@ -4,10 +4,12 @@
 
 body{
 	background: #9BC0C2;
+	font-weight: bold;
+	color:#EB501A;
 }
 
 h1 {
-      color: red  ;
+      color: blue;
       font-weight: bold;
       font-style: italic;
    }
